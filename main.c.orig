@@ -1,0 +1,15 @@
+code () {
+	//pseudo code
+}
+
+<<<<<<< HEAD
+f1 () {
+
+	//feature1 code
+=======
+security () {
+	// security patch
+	//
+>>>>>>> master
+	
+}
